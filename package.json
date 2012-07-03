@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "name": "angular-drupal",
+  "description": "Angular.js - Angular-Drupal",
+  "version": "0.0.0",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dineshcooper/angular-drupal.git"
+  },
+  "engines": {
+    "node": ">= 0.6.11"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
