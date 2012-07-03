@@ -2,6 +2,15 @@
 
 ***
 
+An Angularjs module to assist with REST calls to a Drupal7 with Services3.x exposing a REST_SERVER
+
+I am in still in the early stages of getting to grips with Angularjs so the approach I use here may not be the best approach or even the correct approach.
+All suggestions/criticism welcome.
+
+Currently only the user and system service calls have been implemented, I intend to complete calls for the standard Services3.x resources i.e. node, comment, file, taxonomy_term, taxonomy_vocabulary
+and the views resource (http://drupal.org/project/services_views).
+
+***
 ## Usage
 
 ### Requirements
